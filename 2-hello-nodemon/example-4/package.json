@@ -1,0 +1,7 @@
+{
+  "name": "example-4",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "nodemon app/main.js"
+  }
+}

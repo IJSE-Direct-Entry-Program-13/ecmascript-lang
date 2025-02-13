@@ -1,0 +1,7 @@
+{
+  "name": "4-lang-part-2",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "nodemon app/main.js"
+  }
+}

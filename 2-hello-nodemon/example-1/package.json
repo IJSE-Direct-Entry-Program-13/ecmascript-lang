@@ -1,0 +1,11 @@
+{
+  "name": "example-1",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "nodemon app/main.js",
+    "dep": "echo Direct Entry Program"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}

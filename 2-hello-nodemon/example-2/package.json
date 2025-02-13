@@ -1,0 +1,10 @@
+{
+  "name": "example-2",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "nodemon app/main.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
