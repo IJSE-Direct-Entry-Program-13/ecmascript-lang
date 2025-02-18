@@ -1,0 +1,7 @@
+{
+  "name": "17-functions",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "nodemon app/main.js"
+  }
+}
