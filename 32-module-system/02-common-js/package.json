@@ -1,0 +1,7 @@
+{
+  "name": "02-common-js",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "nodemon app/main.cjs"
+  }
+}

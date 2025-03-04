@@ -1,0 +1,8 @@
+{
+  "name": "05-esm-rules",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon app/main.js"
+  }
+}
